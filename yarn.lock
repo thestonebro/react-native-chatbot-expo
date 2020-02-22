@@ -2543,10 +2543,6 @@ react-is@^16.8.1:
   version "16.8.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.1.tgz#a80141e246eb894824fb4f2901c0c50ef31d4cdb"
 
-react-native-loader@^1.1.0:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/react-native-loader/-/react-native-loader-1.2.1.tgz#e08589a89cfcd076595b9301c1d618f54da73329"
-
 react-native-mock@^0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/react-native-mock/-/react-native-mock-0.3.1.tgz#13d22433c5351a8a7fb8aedd7862b614d087851c"
@@ -2563,6 +2559,11 @@ react-native-mock@^0.3.1:
     react-dom "^15.4.0"
     react-timer-mixin "^0.13.3"
     warning "^2.1.0"
+
+react-native-three-dots-loader@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-three-dots-loader/-/react-native-three-dots-loader-1.0.1.tgz#31ec821865eea6615ce5a1c509d0a8ae78e374b6"
+  integrity sha512-5K/n89+UUm2QNeVum34pycelBhTsOTCtSk3e8Hn6BSXZWfhtJDma+RfdJYGw/uzO/YZH+mPteyS4lhMH/kbVyw==
 
 react-proxy@^1.1.7:
   version "1.1.8"
