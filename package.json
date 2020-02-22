@@ -1,7 +1,7 @@
 {
-  "name": "react-native-chatbot",
+  "name": "react-native-chatbot-expo",
   "version": "0.0.1-alpha.12",
-  "description": "React Native Chatbot",
+  "description": "React Native Chatbot for Expo",
   "main": "lib/index.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint lib/*.jsx",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LucasBassetti/react-native-chatbot"
+    "url": "https://github.com/jzarca01/react-native-chatbot-expo"
   },
   "keywords": [
     "react",
@@ -36,9 +36,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LucasBassetti/react-native-chatbot/issues"
+    "url": "https://github.com/LucasBassetti/react-native-chatbot-expo/issues"
   },
-  "homepage": "https://github.com/LucasBassetti/react-native-chatbot#readme",
+  "homepage": "https://github.com/LucasBassetti/react-native-chatbot-expo#readme",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-eslint": "^10.0.1",
@@ -64,7 +64,7 @@
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
     "random-id": "1.0.3",
-    "react-native-loader": "^1.1.0"
+    "react-native-loading-dots": "^1.1.1"
   },
   "peerDependencies": {
     "react": ">= 0.14.0 < 17.0.0-0",
